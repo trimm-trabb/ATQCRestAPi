@@ -2,7 +2,7 @@
 <suite name="SpotifyTestSuite" >
     <test name="SpotifyTest">
         <classes>
-            <class name="SpotifyTests.SpotifyPlaylistTests" />
+            <class name="SpotifyTests.SpotifyPlaylistTestsJersey" />
         </classes>
     </test>
 </suite>
